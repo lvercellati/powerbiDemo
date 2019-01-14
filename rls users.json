@@ -1,0 +1,12 @@
+[
+	{
+		"User" : "Riccardo Perico",
+		"Email" : "rperico@solidq.com",
+		"Is Manager" : 0
+	},
+	{
+		"User" : "Lorenzo Vercellati",
+		"Email" : "lvercellati@solidq.com",
+		"Is Manager" : 0
+	}
+]
